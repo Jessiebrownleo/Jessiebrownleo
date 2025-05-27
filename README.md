@@ -41,7 +41,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/on.soben.2025" target="_blank">
+  <a href="https://facebook.com/on.soben.devops" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://t.me/onsoben" target="_blank">
