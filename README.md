@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-HashiCorp-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Foundation-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
