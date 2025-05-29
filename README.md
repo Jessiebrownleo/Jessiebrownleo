@@ -20,8 +20,7 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,terraform,ansible,prometheus,grafana,git,github,linux,bash,java,python,nginx,spring,nextjs,typescript,postgres,django,vim)
-
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,git,github,linux,bash,java,python,nginx,spring,nestjs,nextjs,typescript,postgres,django,vim)
 
 
 ---
