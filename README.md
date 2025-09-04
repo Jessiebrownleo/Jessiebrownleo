@@ -46,7 +46,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Foundation-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-e85d7841-9b09-4d8a-9682-f294e46f1ee2-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Talent%20Institute-Cloud_DevOps-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
