@@ -44,14 +44,28 @@
 ### 🏅 Certifications
 
 <p align="center">
+  <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   
+  <!-- Linux Foundation (General Badge) -->
   <img src="https://img.shields.io/badge/Linux-Foundation-0078D6?style=for-the-badge&logo=linux&logoColor=white" />
   
+  <!-- Intro to Cloud Infrastructure Technologies (LFS151) -->
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-fzg11py7lr-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Linux_Foundation-Intro_to_Cloud_Infrastructure_(LFS151)-1E90FF?style=for-the-badge&logo=cloud&logoColor=white" />
+  </a>
+  
+  <!-- Intro to Kubernetes (LFS158) -->
   <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-e85d7841-9b09-4d8a-9682-f294e46f1ee2-certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Linux_Foundation-Intro_to_Kubernetes_(LFS158)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
+  
+  <!-- Intro to DevOps & SRE (LFS162) -->
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-1f51398e-fa9f-4cae-85a1-2f36dc3574ad-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Linux_Foundation-Intro_to_DevOps_&_SRE_(LFS162)-2E8B57?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
 </p>
+
 
 
 
