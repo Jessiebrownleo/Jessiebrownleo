@@ -64,6 +64,11 @@
   <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-1f51398e-fa9f-4cae-85a1-2f36dc3574ad-certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Linux_Foundation-Intro_to_DevOps_&_SRE_(LFS162)-2E8B57?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
+
+  <!-- Intro to DevSecOps for Managers (LFS180) -->
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6b6a8bdc-aed1-4a4a-8968-5a24065e0506-on-soben-27ba695b-ac9c-427d-9d19-c14b7d055594-certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Linux_Foundation-Intro_to_DevSecOps_for_Managers_(LFS180)-FF8C00?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+  </a>
 </p>
 
 
