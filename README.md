@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben 10</h1>
 
-<h3 align="center">💻 DevSecOps Engineer | ☁️ Cloud Enthusiast | 🛠️ Automation Addict</h3>
+<h3 align="center">💻 DevSecOps  Engineer | ☁️ Cloud Enthusiast | 🛠️ Automation Addict</h3>
 
 
 
