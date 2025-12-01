@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ben 10</h1>
 
-<h3 align="center">💻 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠️ Automation Addict</h3>
+<h3 align="center">💻 DevSecOps Engineer | ☁️ Cloud Enthusiast | 🛠️ Automation Addict</h3>
 
 
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BDevOps+%7C+Cloud+%7C+Automation%E2%80%8B;%E2%80%8BBuilding+CI%2FCD+pipelines+like+a+ninja%E2%80%8B;%E2%80%8BAlways+learning+new+technologies%E2%80%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E2%80%8BDevSecOps+%7C+Cloud+%7C+Automation%E2%80%8B;%E2%80%8BBuilding+CI%2FCD+pipelines+like+a+ninja%E2%80%8B;%E2%80%8BAlways+learning+new+technologies%E2%80%8B" alt="Typing SVG" />
 
 </p>
 
